@@ -1,8 +1,7 @@
-Affairs dataset¶
-Description¶
+# Affairs Prediction using Logistic Regression END-to-END project
+Description :
 Extramarital affair data used to explain the allocation of an individual’s time among work, time spent with a spouse, and time spent with a paramour. The data is used as an example of regression with censored data.
 
-Notes¶
 Number of observations: 6366
 Number of variables: 9
 Variable name definitions:
